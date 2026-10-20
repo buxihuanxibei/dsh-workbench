@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Xibei · Work Log",
+    "description": "A standalone panel in the left sidebar: write today's summary and keep numbered tasks; hit Import to send a task into a new conversation or an existing one (preserving context) and start work immediately. A rough spend estimate for today and for each dispatched task is prorated from the real token usage ledger."
+  }
+}

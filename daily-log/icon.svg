@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Work log">
+  <defs>
+    <linearGradient id="dlg-cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b9bd5"/>
+      <stop offset="1" stop-color="#2f5f96"/>
+    </linearGradient>
+    <linearGradient id="dlg-page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7fafc"/>
+      <stop offset="1" stop-color="#dbe7f3"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#dlg-cover)"/>
+  <rect x="16" y="11" width="33" height="42" rx="4" fill="url(#dlg-page)"/>
+  <rect x="16" y="11" width="7" height="42" rx="3" fill="#b9cfe4"/>
+  <path d="M27 24h15M27 31h15M27 38h9" stroke="#5b7fa6" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="44" cy="45" r="9" fill="#e0a94a"/>
+  <path d="M40 45.2l2.8 2.8 5-5.6" stroke="#3a2a0c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="20" y="11" width="3.4" height="42" fill="#a9c2d9"/>
+</svg>

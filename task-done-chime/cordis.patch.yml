@@ -1,0 +1,7 @@
+- insert:
+    - id: task-done-chime
+      name: '@buxihuanxibei/dsh-task-done-chime'
+      config:
+        defaultSound: glass-ding
+        announceSubagents: false
+        mergeWindowMs: 1200

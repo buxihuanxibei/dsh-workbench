@@ -1,0 +1,3 @@
+- insert:
+    - id: daily-log
+      name: '@buxihuanxibei/dsh-daily-log'
