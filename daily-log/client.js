@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-daily-log',
+  id: '@buxihuanxibei/dsh-daily-log',
   factory(require) {
     const React = require('react')
     const h = React.createElement

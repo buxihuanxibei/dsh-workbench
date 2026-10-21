@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-task-done-chime',
+  id: '@buxihuanxibei/dsh-task-done-chime',
   factory(require) {
     const React = require('react')
     const h = React.createElement
