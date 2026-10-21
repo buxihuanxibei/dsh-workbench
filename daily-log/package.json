@@ -1,6 +1,6 @@
 {
   "name": "@buxihuanxibei/dsh-daily-log",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "type": "module",
   "description": "左侧工作栏里的工作日志面板：写当日总结、维护带编号的任务，一键把任务发到指定工作区的「新会话」或「已有对话」直接开始/继续干活，并按真实 token 用量粗略估算当日花费与每个任务的花费。",
   "license": "MIT",

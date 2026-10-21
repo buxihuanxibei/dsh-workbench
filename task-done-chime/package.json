@@ -1,6 +1,6 @@
 {
   "name": "@buxihuanxibei/dsh-task-done-chime",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "任务完成提醒：一轮对话结束时播放柔和的提示音（玻璃叮/八音盒/风铃等 6 种），并在页面右上角提示是哪个会话完成。",
   "license": "MIT",
